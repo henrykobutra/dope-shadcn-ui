@@ -1,4 +1,4 @@
-# 🛠 The Only Dev Tools You'll Ever Need™
+# 🛠 The Only Dev Tools I Ever Need™
 
 Listen up. This is my personally curated list of development tools that actually work. No fluff, no BS - just the good stuff that makes coding less painful. If you're looking for an exhaustive list of every framework ever created, you're in the wrong place.
 
@@ -6,7 +6,7 @@ Listen up. This is my personally curated list of development tools that actually
 
 ## 📑 What's Inside
 
-- [🛠 The Only Dev Tools You'll Ever Need™](#-the-only-dev-tools-youll-ever-need)
+- [🛠 The Only Dev Tools I Ever Need™](#-the-only-dev-tools-i-ever-need)
   - [📑 What's Inside](#-whats-inside)
   - [The Heavy Lifters](#the-heavy-lifters)
   - [Content Stuff](#content-stuff)
@@ -19,10 +19,13 @@ Listen up. This is my personally curated list of development tools that actually
 
 ## The Heavy Lifters
 
-- [Next.js](https://nextjs.org) - React framework that doesn't suck.
+- [Next.js](https://nextjs.org) - The React framework that doesn't suck.
 - [Vercel](https://vercel.com) - Deploy stuff without wanting to throw your laptop out the window.
 - [Cloudflare](https://cloudflare.com) - Because getting DDoS'd isn't on your to-do list.
 - [Supabase](https://supabase.com) - Like Firebase, but you actually own your data.
+- [OpenPhone](https://www.openphone.com) - The phone system that makes business communication a breeze.
+- [Northwest Registered Agent](https://www.northwestregisteredagent.com) - Your go-to for business formation and registered agent services.
+- [Postmark](https://postmark.com) - Email delivery that just works. Fast, reliable, and no drama.
 
 ## Content Stuff
 
@@ -35,7 +38,7 @@ Listen up. This is my personally curated list of development tools that actually
 
 ## Pretty Things
 
-- [Aceternity UI](https://ui.aceternity.com) - UI components that don't look like Bootstrap circa 2012.
+- [ui.aceternity.com](https://ui.aceternity.com) - UI components that don't look like Bootstrap circa 2012.
 - [Magic UI](https://magicui.design) - Tailwind CSS UI components with magical interactions.
 - [UI Beats](https://www.uibeats.com) - Modern UI component library with rhythm and style.
 - [Tremor](https://tremor.so) - React components for building dashboards.
@@ -62,6 +65,6 @@ Found something amazing? Cool. Open an issue or PR. But remember: this is my lis
 
 ### Acknowledgments
 
-A special thanks to [@birobirobiro](https://github.com/birobirobiro) for the inspiration and resources from the [awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) repository. Check it out for a curated list of awesome things related to shadcn/ui!
+A special thanks to [@birobirobiro](https://github.com/birobirobiro/dope-shadcn-ui) for the inspiration and resources from the [dope-shadcn-ui](https://github.com/birobirobiro/dope-shadcn-ui) repository. Check it out for a curated list of awesome things related to shadcn/ui!
 
 Built with ☕️ and questionable life choices.
