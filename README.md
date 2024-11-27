@@ -47,6 +47,7 @@ Listen up. This is my personally curated list of development tools that actually
 - [Launch UI](https://www.launchuicomponents.com) - Ready-to-launch UI components for web applications.
 - [Farm UI](https://www.farmui.com) - Fresh and organic UI components for React applications.
 - [Cult UI](https://www.cult-ui.com) - UI components that are both functional and aesthetically pleasing.
+- [Enhanced Button](https://enhanced-button.vercel.app) - A collection of enhanced button components for modern web applications.
 
 ## Making Things Look Good
 
